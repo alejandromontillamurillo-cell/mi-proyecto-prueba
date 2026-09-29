@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listafactura>
+    <factura fecha="12/07/2026">
+        <emisor cif="2347126">
+            <nombre>Amazon</nombre>
+            <volumenventas>1000</volumenventas>
+        </emisor>
+        <pagador cif="4347126">
+            <nombre>Manolo</nombre>
+            <volumenventas></volumenventas>
+        </pagador>
+        <importe>300€</importe>
+    </factura>
+    <factura fecha="30/07/2026">
+        <emisor cif="6347126">
+            <nombre>Google</nombre>
+            <volumenventas>2000</volumenventas>
+        </emisor>
+        <pagador cif="8347126">
+            <nombre>Sofia</nombre>
+            <volumenventas></volumenventas>
+        </pagador>
+        <importe>600€</importe>
+    </factura>
+    <factura fecha="20/07/2026">
+        <emisor cif="1347126">
+            <nombre>Microsoft</nombre>
+            <volumenventas>3000</volumenventas>
+        </emisor>
+        <pagador cif="5347126">
+            <nombre>Pepe</nombre>
+            <volumenventas></volumenventas>
+        </pagador>
+        <importe>900€</importe>
+    </factura>
+</listafactura>
